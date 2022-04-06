@@ -17,3 +17,9 @@ Decimal : ('1.0')
 Fraction : Fraction(1, 3)
 
 Boolean type and constants : bool(X), True, False
+
+### Numeric built-in function:
+
+hex(I), oct(I), and bin(I) : convert an integer to its representation string in these three bases.
+
+int(str, base) converts a runtime string to an integer per a given base.
