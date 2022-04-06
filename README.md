@@ -23,3 +23,7 @@ Boolean type and constants : bool(X), True, False
 hex(I), oct(I), and bin(I) : convert an integer to its representation string in these three bases.
 
 int(str, base) converts a runtime string to an integer per a given base.
+
+is_integer : test if the number is an integer.
+
+bit_length : gives the number of bits necessary to represent an integer.
