@@ -27,3 +27,7 @@ int(str, base) converts a runtime string to an integer per a given base.
 is_integer : test if the number is an integer.
 
 bit_length : gives the number of bits necessary to represent an integer.
+
+Truncates float to integer : int(3.1415)
+
+Converts integer to float : float(3)
