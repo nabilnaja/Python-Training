@@ -1,7 +1,7 @@
 # Python-Training
 Python training
 
-## Numeric type:
+## Numeric type
 Integers (unlimited size) : 1234, −24, 0, 99999999999999 
 
 Floating-point numbers : 1.23, 1., 3.14e-10, 4E210, 4.0e+210
@@ -18,7 +18,7 @@ Fraction : Fraction(1, 3)
 
 Boolean type and constants : bool(X), True, False
 
-### Numeric built-in function:
+### Numeric built-in function
 
 hex(I), oct(I), and bin(I) : convert an integer to its representation string in these three bases.
 
@@ -31,3 +31,9 @@ bit_length : gives the number of bits necessary to represent an integer.
 Truncates float to integer : int(3.1415)
 
 Converts integer to float : float(3)
+
+## str and repr Display Formats
+
+echoes, as-code form : repr('spam') -> "'spam'" 
+
+print, user-friendly form: str('spam') -> 'spam'
