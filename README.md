@@ -39,3 +39,13 @@ Rounds and drops decimal digits : round() it still produces a floating-point num
 echoes, as-code form : repr('spam') -> "'spam'" 
 
 print, user-friendly form: str('spam') -> 'spam'
+
+## Random
+
+random.random()
+
+random.randint(1, 10)
+
+random.choice([[...])
+
+random.shuffle([[...])
