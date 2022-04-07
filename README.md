@@ -20,7 +20,7 @@ Boolean type and constants : bool(X), True, False
 
 ### Numeric built-in function
 
-hex(I), oct(I), and bin(I) : convert an integer to its representation string in these three bases.
+hex(I), oct(I), and bin(I) : convert an integer to its representation string in these three bases -> int('64'), int('100', 8), int('40', 16), int('1000000', 2).
 
 int(str, base) converts a runtime string to an integer per a given base.
 
