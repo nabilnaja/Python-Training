@@ -32,6 +32,8 @@ Truncates float to integer : int(3.1415)
 
 Converts integer to float : float(3)
 
+Rounds and drops decimal digits : round() it still produces a floating-point number in memory.
+
 ## str and repr Display Formats
 
 echoes, as-code form : repr('spam') -> "'spam'" 
