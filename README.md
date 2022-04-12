@@ -53,7 +53,8 @@ random.shuffle([[...])
 ## File type
 
 for char in open('test.txt').**read()**: processes each character at once, but it loads the file into memory all at
-once. 
+once.
+
 for line in open('test.txt'): Use iterators
 
 
